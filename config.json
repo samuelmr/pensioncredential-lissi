@@ -1,0 +1,10 @@
+{
+    "client_id": "YOUR_LISSI_CLIENT_ID",
+    "client_secret": "YOUR_LISSI_CLIENT_SECRET",
+    "api_base": "YOUR_LISSI_TENANT_API_URL",
+    "token_url": "LISSI_TOKEN_URL",
+    "auth_resource": "LISSI_AUTH_RESOURCE",
+    "server_host": "localhost",
+    "issuer_port": 4080,
+    "verifier_port": 4081
+}

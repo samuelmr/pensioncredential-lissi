@@ -1,0 +1,19 @@
+{
+  "presentationTemplateName": "PensionCredential presentation",
+  "presentationRequirements": {
+    "credentialCriteria": [
+      {
+        "requiredType": "PensionCredential",
+        "allowedIssuers": ["https://findynet.demo.connector.lissi.io"],
+        "requiredClaims": [
+          {
+            "claimName": "person_identifier_code"
+          },
+          {
+            "claimName": "typeCode"
+          }
+        ]
+      }
+    ]
+  }
+}
